@@ -12,4 +12,10 @@ K darlington transistor array
 F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
 $ENDCMP
 #
+$CMP VNLD5090
+D 25A dual low-side MOSFET driver, SO-8
+K mosfet driver
+F https://www.st.com/resource/en/datasheet/vnld5090-e.pdf
+$ENDCMP
+#
 #End Doc Library
