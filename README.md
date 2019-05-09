@@ -14,3 +14,5 @@ A library of kicad symbols and footprints for parts used across the Speeduino bo
 ## Shields
 * Arduino Mega 2560
 * STM32F407 Black
+## Misc
+* MPX4250
