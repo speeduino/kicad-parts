@@ -12,6 +12,12 @@ K darlington transistor array
 F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
 $ENDCMP
 #
+$CMP VN5160S-E
+D Single channel high side driver for automotive applications
+K mosfet driver
+F https://www.st.com/resource/en/datasheet/vn5160s-e.pdf
+$ENDCMP
+#
 $CMP VNLD5090
 D 25A dual low-side MOSFET driver, SO-8
 K mosfet driver
