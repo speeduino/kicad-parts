@@ -1,3 +1,27 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SP720
+D High Voltage, High Current Darlington Transistor Arrays, SOIC16W/TSSOP16
+K darlington transistor array
+F https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp720_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP ULQ2004A
+D High Voltage, High Current Darlington Transistor Arrays, SOIC16W/TSSOP16
+K darlington transistor array
+F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+$ENDCMP
+#
+$CMP VN5160S-E
+D Single channel high side driver for automotive applications
+K mosfet driver
+F https://www.st.com/resource/en/datasheet/vn5160s-e.pdf
+$ENDCMP
+#
+$CMP VNLD5090
+D 25A dual low-side MOSFET driver, SO-8
+K mosfet driver
+F https://www.st.com/resource/en/datasheet/vnld5090-e.pdf
+$ENDCMP
+#
 #End Doc Library
