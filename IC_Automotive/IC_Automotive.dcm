@@ -18,6 +18,16 @@ K mosfet driver
 F https://www.st.com/resource/en/datasheet/vn5160s-e.pdf
 $ENDCMP
 #
+$CMP VN7004CHTR
+D Gate Drivers ABD VIPOWER
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/b6/fd/97/74/c7/37/4e/f0/DM00177921.pdf/files/DM00177921.pdf/jcr:content/translations/en.DM00177921.pdf
+$ENDCMP
+#
+$CMP VND7020AJTR-E
+D Power Switch ICs - Power Distribution Double chnl hi-side Multi-Sense analog
+F https://componentsearchengine.com/Datasheets/1/VND7020AJTR-E.pdf
+$ENDCMP
+#
 $CMP VNLD5090
 D 25A dual low-side MOSFET driver, SO-8
 K mosfet driver
