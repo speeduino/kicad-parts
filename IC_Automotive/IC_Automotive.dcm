@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MAX9926UAEE_V+
+D Sensor Interface Variable-Reluctance Sensor Interface
+F https://componentsearchengine.com/Datasheets/1/MAX9926UAEE_V+.pdf
+$ENDCMP
+#
 $CMP SP720
 D High Voltage, High Current Darlington Transistor Arrays, SOIC16W/TSSOP16
 K darlington transistor array
