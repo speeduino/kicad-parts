@@ -23,3 +23,5 @@ A library of kicad symbols and footprints for parts used across the Speeduino bo
 ## Misc
 * MPX4250
 * AYZ0202AGRLC
+* KP234
+* EBC05DRXN
